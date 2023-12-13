@@ -1,0 +1,13 @@
+# Tema do sítio Web
+# - Lista de temas suportados oficialmente pelo GitHub Pages: https://pages.github.com/themes/
+remote_theme: pages-themes/slate@v0.2.0
+
+# Título do sítio Web
+title: AMA Comunidades
+description: Interoperabilidade
+
+# Plug-ins
+# Este plug-in pertence ao tema pages-themes/slate@0.2.0
+plugins:
+- jekyll-remote-theme
+
