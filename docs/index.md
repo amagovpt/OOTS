@@ -1,8 +1,8 @@
 ---
-title: AMA Comunidades - Interoperabilidade
+title: Comunidades AP - Interoperabilidade
 ---
 
-[voltar a AMA Comunidades](/comunidades/)
+[voltar a Comunidades AP](/comunidades/)
 
 ## Ser parte da comunidade de prática
 
